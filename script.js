@@ -1,5 +1,10 @@
 // proyecto de aplicacion de conceptos vistos en clases. Comisión REACT2.
 
+document.write(`<p style="color: blue; font-size: 24px; text-decoration: underline;">
+     Estadísticas de satisfacción con los clientes<br>
+  </p>`);
+
+
 const arraysNotas = [
     8, 5, 10, 7, 6, 8, 9, 10, 7, 4, 6, 3, 7, 8, 6, 5, 4, 2, 9, 10,
   ];
