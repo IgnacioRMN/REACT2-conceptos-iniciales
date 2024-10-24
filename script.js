@@ -78,6 +78,6 @@ const arraysNotas = [
   }
   
   document.write(`<p style="color: green; font-size: 24px;">
-      La calificación que se repitió más veces (moda) es: ${moda} (repetido ${maxRepeticiones} veces)<br>
+      La calificación que se repitió más veces es: ${moda} (repetido ${maxRepeticiones} veces)<br>
     </p>`);
   
